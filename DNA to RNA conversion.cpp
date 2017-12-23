@@ -5,7 +5,7 @@
 int main(){
 
 	char str[1000];
-	int A,C,G,T;		A=C=G=T=0;
+
 
 	printf(" Enter DNA Sequence :: ");
 	gets(str);
